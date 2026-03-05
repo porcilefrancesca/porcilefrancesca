@@ -5,7 +5,7 @@ Appassionata da sempre di arte, storia e fotografia, qui condivido i miei proget
 
 # I miei progetti
 
-* **[A Thousand Splendid Suns](https://porcilefrancesca.github.io/A_Thousand_Splendid_Suns_sistemato/)** – Un progetto di data visualization che esplora la condizione della donna nei diversi paesi del mondo.
+* **[A Thousand Splendid Suns](https://porcilefrancesca.github.io/A_Thousand_Splendid_Suns/)** – Un progetto di data visualization che esplora la condizione della donna nei diversi paesi del mondo.
 
 # Cosa uso
 
