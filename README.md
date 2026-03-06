@@ -6,6 +6,8 @@ Appassionata da sempre di arte, storia e fotografia, qui condivido i miei proget
 ## I miei progetti
 
 * **[A Thousand Splendid Suns](https://porcilefrancesca.github.io/A_Thousand_Splendid_Suns/)** – Un progetto di *data visualization* che esplora la condizione femminile globale attraverso l'analisi di dati complessi.
+
+## Le mie sperimentazioni
 * **[Glyph System](https://porcilefrancesca.github.io/Glyph_System/)** – Una sperimentazione visiva realizzata con **P5.js** focalizzata sulla creazione e manipolazione algoritmica di sistemi di glifi.
 
 ## Cosa utilizzo
