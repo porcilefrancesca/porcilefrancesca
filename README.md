@@ -1,4 +1,4 @@
-# Ciao, sono Francesca! 
+# Ciao, sono Francesca! :)
 
 Sono una studentessa di **Design della Comunicazione** presso la Scuola del Design del Politecnico di Milano.  
 Appassionata da sempre di arte, storia e fotografia, qui condivido i miei progetti digitali e le mie sperimentazioni con il codice: un nuovo mondo che, negli ultimi anni, ha stimolato la mia curiosità, ampliando il mio bagaglio professionale e i miei interessi.
