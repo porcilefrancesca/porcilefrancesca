@@ -10,6 +10,7 @@ Appassionata da sempre di arte, storia e fotografia, qui condivido i miei proget
 ## Sperimentazioni
 
 > **[Glyph System](https://porcilefrancesca.github.io/Glyph_System/)** – Una sperimentazione visiva realizzata con **P5.js** focalizzata sulla creazione e manipolazione algoritmica di sistemi di glifi.
+>
 > **[Generative Art Study_00](https://porcilefrancesca.github.io/Generative_Art_Study_00/)** – Un'esplorazione di arte generativa basata sul metodo di Vera Molnár.
 
 ## Cosa utilizzo
