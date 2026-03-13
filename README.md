@@ -13,7 +13,7 @@ Appassionata da sempre di arte, storia e fotografia, qui condivido i miei proget
 >
 > **[Generative Art Study_00](https://porcilefrancesca.github.io/Generative_Art_Sudy_00/)** – Una sperimentazione di *arte generativa* basata sul metodo di Vera Molnár.
 >
-> **[Generative Art Study_01](https://porcilefrancesca.github.io/Generative_Art_Study_01/)** – Una sperimentazione di *arte generativa*.
+> **[Generative Art Study_01](https://porcilefrancesca.github.io/Generative_Art_Study_01/)** – Una sperimentazione di *arte generativa* basata sul metodo di Vera Molnár.
 
 ## Cosa utilizzo
 
