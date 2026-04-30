@@ -17,7 +17,7 @@ Driven by a lifelong passion for art and design, I use this space to share my di
 >
 > **[Generative Art Study_01](https://porcilefrancesca.github.io/Generative_Art_Study_01/)** – A generative art experiment based on Vera Molnár’s methodology.
 
-## Tech Stack
+## Tools
 
 - **Design:** Figma, Adobe Creative Suite.
 - **Development:** HTML, CSS, JavaScript, P5.js.
