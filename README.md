@@ -7,7 +7,7 @@ Driven by a lifelong passion for art and design, I use this space to share my di
 
 > **[A Thousand Splendid Suns](https://porcilefrancesca.github.io/A_Thousand_Splendid_Suns/)** – A data visualization project exploring the global condition of women through complex data analysis.
 >
-> **[Palazzo Filoni - Digital Heritage](https://your-link-here.com)** – A website and brand extension project for Palazzo Filoni, a historic residence located in Servigliano, the "square village" of the Marche region.
+> **[Palazzo Filoni - Digital Heritage](https://porcilefrancesca.github.io/Palazzo_Filoni_Digital_Heritage/)** – A website and brand extension project for Palazzo Filoni, a historic residence located in Servigliano, the "square village" of the Marche region.
 
 ## Experiments
 
